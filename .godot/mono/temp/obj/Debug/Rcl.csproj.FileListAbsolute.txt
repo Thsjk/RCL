@@ -1,0 +1,17 @@
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\bin\Debug\Rcl.deps.json
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\bin\Debug\Rcl.runtimeconfig.json
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\bin\Debug\Rcl.dll
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\bin\Debug\Rcl.pdb
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.csproj.AssemblyReference.cache
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.AssemblyInfoInputs.cache
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.AssemblyInfo.cs
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.csproj.CoreCompileInputs.cache
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.csproj.CopyComplete
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.dll
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\refint\Rcl.dll
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.pdb
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\Rcl.genruntimeconfig.cache
+C:\Users\Ths\Documents\Godot projects\RCL\.godot\mono\temp\obj\Debug\ref\Rcl.dll
